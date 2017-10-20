@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreBuletoothTestPeripheral/ViewController.swift"
+            timestampString = "530096214.225412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "peripheralManager(_:didReceiveWrite:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreBuletoothTestPeripheral.ViewController.peripheralManager(__ObjC.CBPeripheralManager, didReceiveWrite: Swift.Array&lt;__ObjC.CBATTRequest&gt;) -&gt; ()"
+                  moduleName = "CoreBuletoothTestPeripheral"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mty/Desktop/CoreBuletoothTestPeripheral/CoreBuletoothTestPeripheral/ViewController.swift"
+                  timestampString = "530096214.362386"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreBuletoothTestPeripheral.ViewController.peripheralManager(__ObjC.CBPeripheralManager, didReceiveWrite: Swift.Array&lt;__ObjC.CBATTRequest&gt;) -&gt; ()"
+                  moduleName = "CoreBuletoothTestPeripheral"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mty/Desktop/CoreBuletoothTestPeripheral/CoreBuletoothTestPeripheral/ViewController.swift"
+                  timestampString = "530096214.365857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreBuletoothTestPeripheral/ViewController.swift"
+            timestampString = "530096214.225708"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "peripheralManager(_:central:didSubscribeTo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
